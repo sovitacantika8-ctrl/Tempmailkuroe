@@ -1,1 +1,57 @@
-<!doctype html><html lang="id"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Akaishi Kuroe • Temp Mail</title><link rel="stylesheet" href="style.css"></head><body><div class="glow"></div><main><header><div class="logo">AK</div><div><small>AKAISHI KUROE</small><h1>Temp Mail</h1><p>Email sementara yang simpel & cepat.</p></div></header><section class="card"><label>ALAMAT EMAIL</label><div class="email"><input id="email" readonly placeholder="Tekan Buat Email"><button id="copy">COPY</button></div><button class="create" id="create">✦ BUAT EMAIL BARU</button><div id="status">Siap.</div></section><section class="card"><div class="top"><div><label>INBOX</label><h2>Email Masuk</h2></div><button id="refresh" class="refresh">↻</button></div><div id="inbox"><div class="empty">Belum ada email.</div></div></section><footer>© Akaishi Kuroe</footer></main><script src="script.js"></script></body></html>
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#090611">
+  <title>Akaishi Kuroe — Temp Mail</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="glow glow1"></div><div class="glow glow2"></div>
+  <main class="wrap">
+    <header class="brand">
+      <div class="logo">AK</div>
+      <div>
+        <div class="mini">AKAISHI KUROE</div>
+        <h1>TEMP MAIL <span>ONLINE</span></h1>
+        <p>PRIVATE DISPOSABLE MAILBOX</p>
+      </div>
+    </header>
+
+    <section class="hero">
+      <div class="tag">✦ TEMPORARY EMAIL</div>
+      <h2>Your temporary<br><em>digital identity.</em></h2>
+      <p>Buat alamat email sementara untuk kebutuhan verifikasi dan inbox singkat tanpa memenuhi email utama kamu.</p>
+    </section>
+
+    <section class="mailbox card">
+      <div class="section-top">
+        <div><small>ACTIVE MAILBOX</small><h3 id="mailStatus">Belum ada email</h3></div>
+        <span id="live" class="dot off">OFFLINE</span>
+      </div>
+
+      <div class="email-box">
+        <input id="email" readonly placeholder="Tekan Generate Email">
+        <button id="copyBtn" class="copy">COPY</button>
+      </div>
+
+      <div class="actions">
+        <button id="generateBtn" class="primary">✦ Generate Email</button>
+        <button id="refreshBtn" class="secondary">↻ Refresh</button>
+      </div>
+      <div id="notice" class="notice">Belum ada mailbox aktif.</div>
+      <div class="auto"><span>Inbox auto-refresh</span><label class="switch"><input id="auto" type="checkbox" checked><i></i></label><b>10s</b></div>
+    </section>
+
+    <section class="card">
+      <div class="section-title"><div><small>YOUR INBOX</small><h3>Incoming messages</h3></div><span id="count" class="count">0</span></div>
+      <div class="search"><span>⌕</span><input id="search" placeholder="Search sender or subject..."></div>
+      <div id="inbox" class="inbox"><div class="empty"><strong>No active mailbox</strong><br>Tekan Generate Email untuk mulai menerima pesan.</div></div>
+    </section>
+
+    <footer>© 2026 AKAISHI KUROE • BUILT FOR MOBILE</footer>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
