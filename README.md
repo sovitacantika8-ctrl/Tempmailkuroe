@@ -3,13 +3,15 @@
      Owner: Sovita Cantika
 ========================================================= --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Akaishi%20Kuroe&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Sovita%20Cantika%20%E2%80%A2%20WhatsApp%20Bot%20Developer&descSize=20&descAlignY=62&theme=tokyonight" width="100%"><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=BB86FC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Akaishi+Kuroe+%F0%9F%92%9C;Sovita+Cantika+%E2%80%94+Developer;WhatsApp+Bot+%26+Plugin+Developer;JavaScript+%7C+Node.js+%7C+Python;Building+Bots%2C+APIs+%26+Automation+%F0%9F%9A%80" alt="Typing SVG"><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sovitacantika&label=PROFILE%20VIEWS&color=9b59b6&style=for-the-badge" alt="Profile Views"><img src="https://img.shields.io/github/followers/sovitacantika?style=for-the-badge&logo=github&label=FOLLOWERS&color=6c5ce7" alt="Followers"><img src="https://img.shields.io/github/stars/sovitacantika?style=for-the-badge&logo=github&label=STARS&color=a855f7" alt="Stars"></div>---
+<img src="https://komarev.com/ghpvc/?username=sovitacantika&label=PROFILE%20VIEWS&color=9b59b6&style=for-the-badge" alt="Profile Views"><img src="https://img.shields.io/github/followers/sovitacantika?style=for-the-badge&logo=github&label=FOLLOWERS&color=6c5ce7" alt="Followers"></div>---
 
 <div align="center">💜 Akaishi Kuroe
 
 Sovita Cantika
 
 WhatsApp Bot • Plugins • APIs • Automation
+
+«Turning ideas into code, bots and useful tools.»
 
 </div>---
 
@@ -48,12 +50,15 @@ const sovita = {
     motto: "Learn • Build • Improve 🚀"
 };
 
-<div align="center">✦ What I Do
+---
 
-💻 Development| 🤖 Automation| 🌐 Web
+✦ What I Do
+
+<div align="center">💻 Development| 🤖 Automation| 🌐 Web & API
 JavaScript| WhatsApp Bot| Vercel
 Node.js| Plugins| REST API
 Python| Automation| Web Tools
+SQLite| Bot Systems| API Integration
 
 </div>---
 
@@ -69,62 +74,80 @@ Python| Automation| Web Tools
 
 WhatsApp bot ecosystem developed and maintained by Sovita Cantika.
 
-</div>Features
-
-- 🤖 WhatsApp Automation
-- 🧩 Plugin System
-- 📥 Downloader
-- 🎬 Anime Tools
-- 🤖 AI Tools
-- 🛠️ Utility Commands
-- 🌐 API Integration
-- 👥 Group Management
+</div>🤖 WhatsApp Automation
+🧩 Plugin System
+📥 Downloader
+🎬 Anime Tools
+🤖 AI Tools
+🛠️ Utility Commands
+🌐 API Integration
+👥 Group Management
 
 <br><div align="center">🧩 Akaishi Plugins
 
-Collection of plugins for WhatsApp automation.
+Plugin collection for the Akaishi Kuroe WhatsApp ecosystem.
 
-</div>- 📦 Downloader
-- 🎬 Media Tools
-- 🤖 AI Tools
-- 🎮 Fun Commands
-- 🌐 Web Tools
-- 🛠️ Utilities
+</div>📦 Downloader
+🎬 Media Tools
+🤖 AI Tools
+🎮 Fun Commands
+🌐 Web Tools
+🛠️ Utilities
 
 <br><div align="center">🌐 Akaishi Web Projects
 
-Web-based tools and APIs created for the Akaishi Kuroe ecosystem.
+Web tools and APIs created for the Akaishi Kuroe ecosystem.
 
-</div>- 🌐 API Development
-- ▲ Vercel Projects
-- 🔗 REST APIs
-- ⚡ Automation Services
+</div>🌐 REST API
+▲ Vercel Projects
+⚡ Automation Services
+🔗 API Integration
+🛠️ Web Utilities
 
 ---
 
-📊 GitHub Statistics
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sovitacantika&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovitacantika&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180" alt="Top Languages"><br><br>
-
-<img src="https://streak-stats.demolab.com/?user=sovitacantika&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"></div>---
-
-📈 Contribution Activity
-
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sovitacantika&theme=tokyo-night&hide_border=true&radius=12&area=true" alt="Contribution Graph"></div>---
-
-💎 Current Focus
+💎 Currently Building
 
 <div align="center">╭──────────────────────────────────────────────╮
 │                                              │
-│        💜 AKAISHI KUROE DEVELOPMENT 💜      │
+│          💜 AKAISHI KUROE LAB 💜             │
 │                                              │
 │   🤖 WhatsApp Bot                            │
-│   🧩 Plugin Development                      │
-│   🌐 API Development                         │
+│   🧩 Advanced Plugins                        │
+│   🌐 REST APIs                               │
 │   ⚡ Automation                              │
-│   🛠️ Web Tools                              │
+│   🛠️ Developer Tools                        │
+│   🎬 Media & Downloader Tools                │
 │                                              │
 ╰──────────────────────────────────────────────╯
+
+</div>---
+
+📌 Development Roadmap
+
+<div align="center">Status| Project| Progress
+🟢| WhatsApp Bot| Active
+🟢| Plugin System| Active
+🟢| API Integration| Active
+🟡| Web Tools| Improving
+🟡| Automation Tools| Improving
+🔵| New Projects| Coming Soon
+
+</div>---
+
+⚡ Developer Philosophy
+
+<div align="center">«Code it. Test it. Fix it. Improve it.»
+
+<br>Learn
+  ↓
+Build
+  ↓
+Test
+  ↓
+Improve
+  ↓
+Repeat 🚀
 
 </div>---
 
@@ -135,6 +158,7 @@ Web-based tools and APIs created for the Akaishi Kuroe ecosystem.
 - 🌐 Develop useful public APIs
 - 💻 Improve JavaScript & Node.js skills
 - 🤖 Build a better bot ecosystem
+- 🛠️ Create practical developer tools
 - 💜 Keep learning and creating
 
 ---
